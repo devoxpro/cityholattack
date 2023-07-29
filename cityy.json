@@ -1,0 +1,705 @@
+{
+  "ads": {
+    "comment": [
+      "Great game! It's really a good game The Grimace Shake ",
+      "woow this is the best 👍",
+      "ohh i really like this game 👏",
+      "thanks for this game i love it In the nxt uptade add the foot step sounds to make more Realstic "
+    ],
+    "rate_comment": true,
+    "update_app": false,
+    "activate_ads": true,
+    "activate_banner": "off",
+    "activate_inter": "true",
+    "network": "is",
+    "one_signal": "1dbb1eb5-b146-4a3d-a32d-a6234cb49261",
+    "unity_game_id": "5103649",
+    "admob_ban": "ca-app-pub-1108939190579661/2396265296",
+    "admob_native": "ca-app-pub-1108939190579661/9288976700",
+    "admob_int": "ca-app-pub-1108939190579661/7045956741",
+    "admob_rewarded": "ca-app-pub-1108939190579661/4228221711",
+    "yandex_ban": "R-M-2193310-1",
+    "yandex_native": "R-M-2193310-2",
+    "yandex_int": "R-M-2193310-3",
+    "yandex_rewarded": "R-M-2193310-4",
+    "max_ban": "99d4f671d759a027",
+    "max_native": "87fe4f265186625d",
+    "max_int": "19d629eb2d4327ec",
+    "fan_ban": "2455443151275039_2455451371274217",
+    "fan_native": "2455443151275039_2455451584607529",
+    "fan_int": "2455443151275039_2455451494607538",
+    "fan_rewarded": "2455443151275039_2455451697940851",
+    "iron_key": "1adcab7c5",
+    "iron_ban": "DefaultBanner",
+    "iron_int": "DefaultInterstitial",
+    "iron_rewarded": "DefaultRewardedVideo",
+    "ad_image": "https://i.pinimg.com/originals/06/9d/61/069d617dca720be2d65014963515d28e.gif",
+    "ad_link": "https://schoolpass247.github.io/cz.html?n=monster-adventure",
+    "ad_score_amount": 1,
+    "ad_game_minutes": 1,
+    "ad_int_interval": 4,
+    "score_rating_reward": 3,
+    "orientation": "portrait",
+    "game_name": "The Grimace Shake ",
+    "game_cover": "https://i.postimg.cc/3rbyP9ch/mcdonalds-grimace.gif",
+    "game_gif": "https://i.postimg.cc/KY5K10mJ/xnBtlD.gif",
+    "game_link": "https://grimacesbirthday.com/",
+    "update_app_activate": "false",
+    "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia",
+    "show_notfication": true,
+    "Counter": "400000",
+    "notification_title": "check our new game",
+    "notification_text": "woow Grimace Shake scale birthday is here try it now",
+    "showrate": true
+  },
+  "more": [
+    {
+      "name": "Yes or No?! - Food Pranks",
+      "ico": "https://play-lh.googleusercontent.com/XLwHnPui_jBfewef6DpexmRC3LY_b3Y2GzrdCgTka_6tnTg35JcwHOVr3hI6uw0FrSsy=s480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+    },
+    {
+      "name": "The Real Juggle",
+      "ico": "https://play-lh.googleusercontent.com/lnKQs0cMeknooLjxsBqQ2zrBSeIWxGOd4SOHiSnUdS1zCuoQtxa6dlhE8RUzgiUteJjI=s480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.SPSoftwareProductions.TheRealJuggle"
+    },
+    {
+      "name": "Slap Kings",
+      "ico": "https://play-lh.googleusercontent.com/y-jGBQYt9_MwlJJnoCODI-n1rmo138BkMCZShWOQtczg53QkwYmTtyfkcSqUwadIpFFb=s480-rw",
+      "link": "https://play.google.com/store/apps/details?id=mobi.gameguru.slapkings"
+    },
+    {
+      "name": "Hit Master 3D - Knife Assassin",
+      "ico": "https://play-lh.googleusercontent.com/xcVlvz8Dq4Jcbzr4TxEfYGAcxWNS4twrPxN5a3aVYLiGGPoxfQEkDPOWR9Dy1IZrK2E=s480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.hit.master"
+    },
+    {
+      "name": "Do Not Fall .io",
+      "ico": "https://play-lh.googleusercontent.com/as4pnoi2-Mj68ceO5HABH8ZwnbSqABGzYIh1wAZQwGBheghHBcTu5wbaZKpGY8kFKEU=s480-rw",
+      "link": "https://play.google.com/store/apps/details?id=fall.race.io"
+    },
+    {
+      "name": "Tall Man Run",
+      "ico": "https://play-lh.googleusercontent.com/NO7rNNKCJa__oDge9GNePHDEq3MKauNc9AaUe3Awx3qsswE_zOVTMgDgccouH9Wg_g=w480-h960-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.VectorUpGames.TallManRun"
+    },
+    {
+      "name": "Yes or No?! - Food Pranks",
+      "ico": "https://play-lh.googleusercontent.com/XLwHnPui_jBfewef6DpexmRC3LY_b3Y2GzrdCgTka_6tnTg35JcwHOVr3hI6uw0FrSsy=s480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+    },
+    {
+      "name": "The Real Juggle",
+      "ico": "https://play-lh.googleusercontent.com/lnKQs0cMeknooLjxsBqQ2zrBSeIWxGOd4SOHiSnUdS1zCuoQtxa6dlhE8RUzgiUteJjI=s480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.SPSoftwareProductions.TheRealJuggle"
+    },
+    {
+      "name": "Slap Kings",
+      "ico": "https://play-lh.googleusercontent.com/y-jGBQYt9_MwlJJnoCODI-n1rmo138BkMCZShWOQtczg53QkwYmTtyfkcSqUwadIpFFb=s480-rw",
+      "link": "https://play.google.com/store/apps/details?id=mobi.gameguru.slapkings"
+    },
+    {
+      "name": "Hit Master 3D - Knife Assassin",
+      "ico": "https://play-lh.googleusercontent.com/xcVlvz8Dq4Jcbzr4TxEfYGAcxWNS4twrPxN5a3aVYLiGGPoxfQEkDPOWR9Dy1IZrK2E=s480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.hit.master"
+    },
+    {
+      "name": "Do Not Fall .io",
+      "ico": "https://play-lh.googleusercontent.com/as4pnoi2-Mj68ceO5HABH8ZwnbSqABGzYIh1wAZQwGBheghHBcTu5wbaZKpGY8kFKEU=s480-rw",
+      "link": "https://play.google.com/store/apps/details?id=fall.race.io"
+    },
+    {
+      "name": "Tall Man Run",
+      "ico": "https://play-lh.googleusercontent.com/NO7rNNKCJa__oDge9GNePHDEq3MKauNc9AaUe3Awx3qsswE_zOVTMgDgccouH9Wg_g=w480-h960-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.VectorUpGames.TallManRun"
+    },
+    {
+      "name": "Yes or No?! - Food Pranks",
+      "ico": "https://play-lh.googleusercontent.com/XLwHnPui_jBfewef6DpexmRC3LY_b3Y2GzrdCgTka_6tnTg35JcwHOVr3hI6uw0FrSsy=s480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+    },
+    {
+      "name": "The Real Juggle",
+      "ico": "https://play-lh.googleusercontent.com/lnKQs0cMeknooLjxsBqQ2zrBSeIWxGOd4SOHiSnUdS1zCuoQtxa6dlhE8RUzgiUteJjI=s480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.SPSoftwareProductions.TheRealJuggle"
+    },
+    {
+      "name": "Slap Kings",
+      "ico": "https://play-lh.googleusercontent.com/y-jGBQYt9_MwlJJnoCODI-n1rmo138BkMCZShWOQtczg53QkwYmTtyfkcSqUwadIpFFb=s480-rw",
+      "link": "https://play.google.com/store/apps/details?id=mobi.gameguru.slapkings"
+    },
+    {
+      "name": "Hit Master 3D - Knife Assassin",
+      "ico": "https://play-lh.googleusercontent.com/xcVlvz8Dq4Jcbzr4TxEfYGAcxWNS4twrPxN5a3aVYLiGGPoxfQEkDPOWR9Dy1IZrK2E=s480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.hit.master"
+    },
+    {
+      "name": "Do Not Fall .io",
+      "ico": "https://play-lh.googleusercontent.com/as4pnoi2-Mj68ceO5HABH8ZwnbSqABGzYIh1wAZQwGBheghHBcTu5wbaZKpGY8kFKEU=s480-rw",
+      "link": "https://play.google.com/store/apps/details?id=fall.race.io"
+    },
+    {
+      "name": "Tall Man Run",
+      "ico": "https://play-lh.googleusercontent.com/NO7rNNKCJa__oDge9GNePHDEq3MKauNc9AaUe3Awx3qsswE_zOVTMgDgccouH9Wg_g=w480-h960-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.VectorUpGames.TallManRun"
+    }
+  ],
+  "slider": [
+    {
+      "image": "https://cdna.artstation.com/p/assets/images/images/030/699/992/large/tanya-grineva-194004-3-147-142240-dragons-wa9.jpg?1601391035",
+      "link": "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+    },
+    {
+      "image": "https://papyrus.greenville.edu/wp-content/uploads/2017/02/rsz_clash-royale.jpg",
+      "link": "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+    },
+    {
+      "image": "https://mytona.com/images/imperavi/article/5e05f667acdc3.jpg",
+      "link": "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+    },
+    {
+      "image": "https://i.ytimg.com/vi/5zZmpYzvAYA/maxresdefault.jpg",
+      "link": "https://play.google.com/store/apps/details?id=com.tgame.yesorno"
+    }
+  ],
+  "menu": [
+    {
+      "active": "false",
+      "active_reward": "false",
+      "name": "Guide",
+      "ico": "https://i.ibb.co/D1mhhb4/scartchbtn.png",
+      "bg": "#3F51B5"
+    },
+    {
+      "active": "false",
+      "active_reward": "false",
+      "name": "Food Delivery",
+      "ico": "https://storage.pixteller.com/designs/designs-videos/2090558-5fe0b83524270/thumb.gif",
+      "bg": "https://study.com/learn/lesson/product-advertisement-overview-examples.html"
+    },
+    {
+      "active": "true",
+      "active_reward": "true",
+      "name": "Spinner",
+      "ico": "https://i.ibb.co/YkmZXT6/output-onlinegiftools.gif",
+      "bg": "#ffffff"
+    },
+    {
+      "active": "true",
+      "active_reward": "false",
+      "name": "Quiz",
+      "ico": "https://i.ibb.co/vkNYFxs/quize.png",
+      "bg": "#ffffff"
+    },
+    {
+      "active": "true",
+      "active_reward": "false",
+      "name": "Puzzle",
+      "ico": "https://i.ibb.co/qDZNwcZ/puzzul-1.png",
+      "bg": "#ffffff"
+    },
+    {
+      "active": "true",
+      "active_reward": "false",
+      "name": "Questions",
+      "ico": "https://i.ibb.co/3Cm3cw0/btnquestion.png",
+      "bg": "#ffffff"
+    },
+    {
+      "active": "true",
+      "active_reward": "true",
+      "name": "Wallpapers",
+      "ico": "https://i.ibb.co/hdt8Hct/btnwall.png",
+      "bg": "#ffffff"
+    },
+    {
+      "active": "true",
+      "active_reward": "false",
+      "name": "Scratch",
+      "ico": "https://i.ibb.co/r4mhcrK/scartch.png",
+      "bg": "#ffffff"
+    },
+    {
+      "active": "false",
+      "active_reward": "false",
+      "name": "Games",
+      "ico": "https://i.ibb.co/m0zZ06V/gamebtn.png",
+      "bg": "#673AB7"
+    },
+    {
+      "active": "false",
+      "active_reward": "false",
+      "name": "More",
+      "ico": "https://i.ibb.co/D1mhhb4/scartchbtn.png",
+      "bg": "#3F51B5"
+    }
+  ],
+  "wallpapers": [
+    {
+      "name": "",
+      "img": "https://i.postimg.cc/RNG4m4w4/cxkh.png"
+    },
+    {
+      "name": "",
+      "img": "https://i.postimg.cc/06z8ZFMx/Grimace-Art-Wallpaper.jpg"
+    },
+    {
+      "name": "",
+      "img": "https://i.postimg.cc/tnjpqgrC/Grimace-Image-Wallpaper.jpg"
+    },
+    {
+      "name": "",
+      "img": "https://i.postimg.cc/sBb3Lm7W/Grimace-i-Phone-Wallpaper.jpg"
+    },
+    {
+      "name": "",
+      "img": "https://i.postimg.cc/PpZdnDQR/Grimace-Photo-Wallpaper.jpg"
+    },
+    {
+      "name": "",
+      "img": "https://i.postimg.cc/XBCGhXrj/Grimace-Wallpaper.jpg"
+    },
+    {
+      "name": "",
+      "img": "https://i.postimg.cc/30XrmGyv/Grimace-Wallpaper-HD.jpg"
+    },
+    {
+      "name": "",
+      "img": "https://i.postimg.cc/F1yhPjRf/hcc.png"
+    },
+    {
+      "name": "",
+      "img": "https://i.postimg.cc/qzGM78Hf/Wallpaper-of-Grimace.jpg"
+    },
+    {
+      "name": "",
+      "img": "https://i.postimg.cc/GHbd6H8X/Wallpaper-of-Grimace.png"
+    },
+    {
+      "name": "",
+      "img": "https://i.postimg.cc/14w3LkW3/wp12508250.jpg"
+    },
+    {
+      "name": "",
+      "img": "https://i.postimg.cc/FYWryNKD/wp12508293.jpg"
+    },
+    {
+      "name": "",
+      "img": "https://i.postimg.cc/LJbSqDyW/wp12508296.png"
+    }
+],
+  "games": [
+    {
+      "name": "The Grimace Shake  Game ",
+      "ico": "https://i.postimg.cc/d3w4Z0Py/3-1.png",
+      "link": "https://grimacesbirthday.com/",
+      "cat": "Overall",
+      "orientation": "1"
+    },
+    {
+      "name": "The Grimace Shake  Game puzzle",
+      "ico": "https://i.postimg.cc/nhmx1d9G/3-1.png",
+      "link": "https://html5.gamemonetize.co/15aj43ai1h4joeaciyclco8n1tvbcibv/?gamedomain=",
+      "cat": "puzzle",
+      "orientation": "0"
+    },
+    {
+      "name": "The Grimace Shake  Game gun",
+      "ico": "https://i.postimg.cc/gjRVkFBT/download.jpg",
+      "link": "https://game.enjoy4fun.com/gobble/v1/index.html",
+      "cat": "Soccer",
+      "orientation": "0"
+    },
+    {
+      "name": "The Grimace monster adventure",
+      "ico": "https://i.postimg.cc/g2jM6PKB/3-1.png",
+      "link": "https://play.gamepix.com/purple-monster-adventure/embed?sid=e4515",
+      "cat": "Arcade",
+      "orientation": "0"
+    },
+    {
+      "name": "The Grimace Shake  Adventure",
+      "ico": "https://i.postimg.cc/htLkpnm4/3-1.png",
+      "link": "https://schoolpass247.github.io/cz.html?n=monster-adventure",
+      "cat": "Arcade",
+      "orientation": "0"
+    }
+  ],
+  "scratch": [
+    {
+      "img": "https://i.postimg.cc/nc6xHbc1/image.png"
+    },
+    {
+      "img": "https://i.postimg.cc/xdQSzvmJ/image.png"
+    },
+    {
+      "img": "https://i.postimg.cc/nzR8gNPB/image.png"
+    }
+  ],
+  "quizquestions": [
+  {
+    "questions": [
+      {
+        "question": "What is the name of the character with a purple, blob-like appearance from McDonald's?"
+      },
+      {
+        "question": "What color is Grimace from McDonald's?"
+      },
+      {
+        "question": "Which popular fast-food chain is Grimace associated with?"
+      },
+      {
+        "question": "In McDonald's, what role does Grimace usually play?"
+      },
+      {
+        "question": "What is the shape of Grimace's body?"
+      },
+      {
+        "question": "What is the main facial feature of Grimace from McDonald's?"
+      },
+      {
+        "question": "What is Grimace's personality like?"
+      },
+      {
+        "question": "What is the name of Grimace's original appearance before his redesign?"
+      },
+      {
+        "question": "Which other character from McDonald's is Grimace often seen with?"
+      },
+      {
+        "question": "What is the primary purpose of Grimace's character in McDonald's marketing?"
+      }
+    ],
+    "answers": [
+      {
+        "answer": "Grimace"
+      },
+      {
+        "answer": "Purple"
+      },
+      {
+        "answer": "McDonald's"
+      },
+      {
+        "answer": "A lovable and clumsy character"
+      },
+      {
+        "answer": "Blob-like"
+      },
+      {
+        "answer": "Large mouth"
+      },
+      {
+        "answer": "Friendly and playful"
+      },
+      {
+        "answer": "Evil Grimace"
+      },
+      {
+        "answer": "Ronald McDonald"
+      },
+      {
+        "answer": "To entertain and engage children"
+      }
+    ],
+    "options": [
+      {
+        "option": "Hamburglar"
+      },
+      {
+        "option": "Grimace"
+      },
+      {
+        "option": "Ronald McDonald"
+      },
+      {
+        "option": "Purple"
+      },
+      {
+        "option": "Green"
+      },
+      {
+        "option": "Red"
+      },
+      {
+        "option": "Burger King"
+      },
+      {
+        "option": "Wendy's"
+      },
+      {
+        "option": "McDonald's"
+      },
+      {
+        "option": "A spokesperson for healthy eating"
+      },
+      {
+        "option": "A lovable and clumsy character"
+      },
+      {
+        "option": "A villainous character"
+      },
+      {
+        "option": "Blob-like"
+      },
+      {
+        "option": "Square"
+      },
+      {
+        "option": "Triangle"
+      },
+      {
+        "option": "Eyes"
+      },
+      {
+        "option": "Large mouth"
+      },
+      {
+        "option": "Sharp teeth"
+      },
+      {
+        "option": "Friendly and playful"
+      },
+      {
+        "option": "Serious and strict"
+      },
+      {
+        "option": "Happy Meal"
+      },
+      {
+        "option": "Evil Grimace"
+      },
+      {
+        "option": "Original Grimace"
+      },
+      {
+        "option": "Burger"
+      },
+      {
+        "option": "Birdie"
+      },
+      {
+        "option": "Ronald McDonald"
+      },
+      {
+        "option": "To entertain and engage children"
+      },
+      {
+        "option": "To promote healthy eating choices"
+      }
+    ]
+
+
+    }
+  ],
+  "quizimages": [
+    {
+      "images": [
+        {
+          "image": "https://i.ytimg.com/vi/eDDFhGKBMCQ/maxresdefault.jpg"
+        },
+        {
+          "image": "https://i.ytimg.com/vi/pHeN0uAY-8E/maxresdefault.jpg"
+        },
+        {
+          "image": "https://www.godisageek.com/wp-content/uploads/Choo-Choo-Charles-out-in-December-coming-to-consoles-next-year-1024x576.jpg"
+        },
+        {
+          "image": "https://consolaytablero.com/wp-content/uploads/2022/10/Choo-Choo-Charles.jpg"
+        },
+        {
+          "image": "https://assets.reedpopcdn.com/-1633195811532.jpg/BROK/resize/1200x1200%3E/format/jpg/quality/70/-1633195811532.jpg"
+        }
+      ],
+      "answers": [
+        {
+          "answer": "true"
+        },
+        {
+          "answer": "true"
+        },
+        {
+          "answer": "true"
+        },
+        {
+          "answer": "true"
+        },
+        {
+          "answer": "true"
+        }
+      ],
+      "options": [
+        {
+          "option": "true"
+        },
+        {
+          "option": "true"
+        },
+        {
+          "option": "true"
+        },
+        {
+          "option": "true"
+        },
+        {
+          "option": "true"
+        },
+        {
+          "option": "true"
+        },
+        {
+          "option": "true"
+        },
+        {
+          "option": "true"
+        },
+        {
+          "option": "true"
+        },
+        {
+          "option": "true"
+        },
+        {
+          "option": "true"
+        },
+        {
+          "option": "true"
+        },
+        {
+          "option": "true"
+        },
+        {
+          "option": "true"
+        },
+        {
+          "option": "true"
+        },
+        {
+          "option": "true"
+        },
+        {
+          "option": "true"
+        },
+        {
+          "option": "true"
+        },
+        {
+          "option": "true"
+        },
+        {
+          "option": "true"
+        }
+      ]
+    }
+  ],
+  "chaptera": [
+    {
+      "title": "Navigate a massive play area in your trusty old engine.",
+      "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1766740/extras/Travel.gif"
+    }
+  ],
+  "chapterb": [
+    {
+      "title": "Walkthrough - Main Missions",
+      "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/a/a5/20221208014722_1.jpg?width=1024"
+    },
+    {
+      "title": "Tutorial",
+      "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/5/53/20221206194340_1.jpg?width=1024"
+    },
+    {
+      "title": "South Mine Spelunking",
+      "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/3/33/20221206212146_1.jpg?width=1024"
+    },
+    {
+      "title": "North Mine Mystery",
+      "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/a/a5/20221208014722_1.jpg?width=1024"
+    },
+    {
+      "title": "A Mine, or A Tomb?",
+      "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/9/9f/20221208032312_1.jpg?width=1024"
+    },
+    {
+      "title": "Destruction Project",
+      "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/a/ac/20221208025711_1.jpg?width=1024"
+    },
+    {
+      "title": "Finish It",
+      "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/7/7d/20221208151755_1.jpg?width=1024"
+    },
+    {
+      "title": "Ending",
+      "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/5/53/20221208151823_1.jpg?width=1024"
+    }
+  ],
+  "chapterc": [
+    {
+      "title": "Weapon Missions",
+      "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/e/ec/20221208150853_1.jpg?width=1024"
+    },
+    {
+      "title": "Bug Spray Blaze: How to Get The Flamethrower",
+      "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/a/a3/20221206214323_1.jpg?width=1024"
+    },
+    {
+      "title": "Mob Camp Infiltration: How to Get The Gatling Gun",
+      "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/3/31/20221208024422_1.jpg?width=1024"
+    },
+    {
+      "title": "Bunker Break-In: How to Get The Rocket Launcher",
+      "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/a/aa/20221207014156_1.jpg?width=1024"
+    }
+  ],
+  "chapterd": [
+    {
+      "title": "Side Missions",
+      "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/3/3d/20221207012413_1.jpg?width=1024"
+    },
+    {
+      "title": "Fetch Scrap From Candice",
+      "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/1/10/20221206203224_1.jpg?width=1024"
+    },
+    {
+      "title": "Lock Pick O'Clock",
+      "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/f/f8/20221206205428_1.jpg?width=1024"
+    },
+    {
+      "title": "Swamp Swimmer",
+      "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/0/07/20221206214547_1.jpg?width=1024"
+    },
+    {
+      "title": "Loot Tony's Barn",
+      "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/d/d7/20221206220930_1.jpg?width=1024"
+    },
+    {
+      "title": "The Pickles Mission",
+      "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/e/e8/20221206234714_1.jpg?width=1024"
+    },
+    {
+      "title": "Canyon Caper",
+      "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/b/bf/20221207000819_1.jpg?width=1024"
+    },
+    {
+      "title": "Light in The Dark",
+      "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/8/89/20221208020646_1.jpg?width=1024"
+    },
+    {
+      "title": "Journal Return",
+      "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/0/04/20221207010924_1.jpg?width=1024"
+    },
+    {
+      "title": "Boulder Field Pages",
+      "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/3/3d/20221207012413_1.jpg?width=1024"
+    },
+    {
+      "title": "Cloud Climber",
+      "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/3/33/20221208034236_1.jpg?width=1024"
+    }
+  ],
+  "chaptere": [
+    {
+      "title": "Paint Can Guide: How to Find Every Paint Can For Your Train",
+      "img": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/choo-choo-charles/1/1e/20221213010317_1.jpg?width=1024"
+    }
+  ]
+}
